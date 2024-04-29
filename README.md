@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> , I am Alejandro López! 
+
+---
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+ 🔌 Ingeniero electricista con una sólida formación en ingeniería eléctrica, complementada con una Maestría en Ingeniería Eléctrica y experiencia profesional en ciencia de datos. Apasionado por resolver problemas complejos y encontrar soluciones innovadoras.
 
 <!--
 **Zarcasmo/Zarcasmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
