@@ -6,11 +6,11 @@ I'm committed to exploring new technologies and finding innovative solutions to 
 
  ## Key Skills
  
-- ⚡ **Data Analysis:** Mastery in utilizing Python and its versatile libraries for comprehensive data analysis, from data wrangling to advanced visualization.
+ ⚡ **Data Analysis:** Mastery in utilizing Python and its versatile libraries for comprehensive data analysis, from data wrangling to advanced visualization.
 
-- 🗺️ **GIS:** Proficiency in Geographic Information System tools, empowering spatial analysis and visualization for informed decision-making.
+ 🗺️ **GIS:** Proficiency in Geographic Information System tools, empowering spatial analysis and visualization for informed decision-making.
 
-- 🧰 **Problem Solving:** Adept at identifying and addressing challenges within engineering and real world problems, employing analytical techniques to devise effective solutions.
+ 🧰 **Problem Solving:** Adept at identifying and addressing challenges within engineering and real world problems, employing analytical techniques to devise effective solutions.
 
 
 ## 🛠️ Toolbox
