@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> , I am Alejandro López! 
+## Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> , I am Alejandro López! 
 
  🔌 A Electrical Engineer and Data Scientist with specialized experience in the electrical sector. I've applied my deep knowledge of distribution electrical systems to solve complex problems and improve efficiency. I leverage Python and its specialized libraries for data analysis, while my expertise in Geographic Information Systems (GIS) allows me to address spatial problems with precision and effectiveness.
 
