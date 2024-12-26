@@ -31,6 +31,8 @@ I'm committed to exploring new technologies and finding innovative solutions to 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alejandro-lopez-aguirre-421b7b1b1" target="_blank" style="text-decoration: none; display: inline-block; vertical-align: middle;" title="www.linkedin.com/in/alejandro-lopez-aguirre-421b7b1b1">Alejandro_Lopez</a>
 
 📧 Email: alejo97100@gmail.com
+
+📒 Portfolio: https://zarcasmo.github.io/
  
 <!--
 **Zarcasmo/Zarcasmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
